@@ -41,3 +41,5 @@ A Pi OS is any operating system designed specifically for use on Raspberry Pi de
 [Food and Farming](https://github.com/sourceduty/Food_and_Farming)
 <br>
 [Programming](https://github.com/sourceduty/Programming)
+<br>
+[Manufacturing OS](https://chatgpt.com/g/g-682af0ea07e4819190a3adda96d2b32c-manufacturing-os)
