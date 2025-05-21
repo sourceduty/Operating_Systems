@@ -1,0 +1,88 @@
+OS Types Topology
+│
+├── Monolithic Kernels
+│   ├── UNIX
+│   ├── Linux
+│   ├── MS-DOS
+│   ├── BSD (Berkeley Software Distribution)
+│   ├── Android (Mobile)
+│   └── Solaris
+│
+├── Microkernels
+│   ├── MINIX
+│   ├── L4
+│   ├── QNX
+│   ├── GNU Hurd
+│   └── Symbian (Mobile)
+│
+├── Hybrid Kernels
+│   ├── Windows NT (PC)
+│   ├── macOS (PC)
+│   ├── iOS (Mobile)
+│   ├── Android (Mobile)
+│   ├── Windows CE (Embedded)
+│   └── Xbox OS (Console)
+│
+├── Exokernels
+│   ├── Akaros
+│   └── Xok
+│
+├── User-Mode Kernels
+│   ├── Plan 9
+│   └── Inferno
+│
+├── Real-Time Operating Systems (RTOS)
+│   ├── VxWorks (Embedded)
+│   ├── FreeRTOS (Embedded, IoT)
+│   ├── RTEMS (Embedded, Space Systems)
+│   ├── QNX (Real-Time, Mobile)
+│   ├── Nucleus RTOS (Embedded)
+│   ├── µC/OS (Embedded)
+│   └── ThreadX (Embedded)
+│
+├── Distributed Operating Systems
+│   ├── Google Fuchsia (Future OS)
+│   ├── Amoeba (Distributed)
+│   ├── Chorus (Distributed)
+│   └── Sprite (Distributed)
+│
+├── Mobile Operating Systems
+│   ├── Android (Smartphones/Tablets)
+│   ├── iOS (Smartphones/Tablets)
+│   ├── Windows Phone (Discontinued)
+│   ├── HarmonyOS (Huawei, smartphones and IoT)
+│   ├── Sailfish OS (Mobile)
+│   └── KaiOS (Feature Phones)
+│
+├── Personal Computer (PC) Operating Systems
+│   ├── Windows (Various versions, PC)
+│   ├── macOS (PC)
+│   ├── Linux (Various distributions, PC)
+│   ├── FreeBSD (PC)
+│   ├── OpenBSD (PC)
+│   ├── Haiku (PC)
+│   └── ReactOS (Open-source Windows alternative)
+│
+├── Single-Board Computer (SBC) Operating Systems
+│   ├── Raspberry Pi OS (formerly Raspbian)
+│   ├── Armbian (For ARM SBCs)
+│   ├── Ubuntu MATE (For Raspberry Pi, SBC)
+│   ├── LibreELEC (Media center for SBCs)
+│   ├── DietPi (Minimal OS for SBCs)
+│   ├── OpenWRT (For networking SBCs, routers)
+│   ├── Lakka (Retro gaming for SBCs)
+│   └── Android Things (IoT, SBC)
+│
+├── Embedded Systems Operating Systems
+│   ├── Embedded Linux (for embedded systems)
+│   ├── TinyOS (IoT and embedded)
+│   ├── Contiki (IoT, low-power embedded)
+│   ├── FreeRTOS (IoT, Embedded)
+│   ├── µC/OS (Embedded)
+│   └── Nucleus RTOS (Embedded)
+│
+├── Console Operating Systems
+    ├── PlayStation OS (PS4, PS5)
+    ├── Xbox OS (Xbox consoles)
+    ├── Nintendo Switch OS
+    └── Wii OS
