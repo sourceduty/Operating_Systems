@@ -70,6 +70,8 @@ A custom Kids OS is a specialized operating system designed to cater to the uniq
 <br>
 [Food and Farming](https://github.com/sourceduty/Food_and_Farming)
 <br>
+[Science OS](https://chatgpt.com/g/g-682d22f294908191acbb92cd55a1acba-science-os)
+<br>
 [Programming](https://github.com/sourceduty/Programming)
 <br>
 [Manufacturing OS](https://chatgpt.com/g/g-682af0ea07e4819190a3adda96d2b32c-manufacturing-os)
