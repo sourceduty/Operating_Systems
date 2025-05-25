@@ -2,8 +2,6 @@
 
 An operating system (OS) is a crucial layer of software that manages a computer’s hardware and software resources, enabling communication between the two. It provides an interface for users and applications to interact with hardware, making it easier to execute commands, manage files, and utilize system resources like memory, processors, and storage devices. OS functions include task scheduling, memory management, input/output control, device management, and security. These systems can range from general-purpose desktop OSs like Windows, macOS, and Linux, to specialized operating systems for mobile devices such as Android and iOS, or single-board computers like Raspberry Pi OS. Mobile operating systems, for instance, prioritize touch interfaces and energy efficiency, while single-board computer OSs, often lightweight and minimal, are tailored for low-resource environments but still offer powerful capabilities for development and embedded applications.
 
-The development of operating systems is an intricate and technically demanding process that requires expertise in system programming, hardware-software interaction, and resource management. OS developers start by designing the kernel, the core component that interacts directly with the hardware, and then move on to creating other system software components like drivers, system libraries, and user interfaces. In mobile OS development, special considerations are made for optimizing battery life, managing cellular networks, and supporting mobile-specific hardware like GPS and touchscreens. For single-board computers, OS development focuses on lightweight, modular systems that can run on limited hardware while supporting programming languages, GPIO (general-purpose input/output) interfaces, and embedded applications. Development tools for these systems often involve low-level programming languages such as C or assembly to maximize efficiency and direct hardware access. Additionally, all OS development—whether for desktop, mobile, or single-board systems—requires ongoing testing and debugging to ensure reliability, security, and compatibility with a wide range of devices and user applications.
-
 #
 
 ![Business OS](https://github.com/user-attachments/assets/64e93dbe-7bc4-4235-a35b-859a643ba1e9)
@@ -83,3 +81,5 @@ A custom Kids OS is a specialized operating system designed to cater to the uniq
 [Manufacturing OS](https://chatgpt.com/g/g-682af0ea07e4819190a3adda96d2b32c-manufacturing-os)
 <br>
 [Games](https://github.com/sourceduty/Games)
+<br>
+[AOS](https://chatgpt.com/g/g-67a37bf5650081919cb334e769d87fcd-aos)
