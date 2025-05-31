@@ -26,7 +26,7 @@ Beyond daily operations, an agricultural operating system also plays a critical 
 
 #
 
-![Terminal OS1](https://github.com/user-attachments/assets/b5b8ffcf-1dea-4898-bf7a-6aceb13c23be)
+![Letters](https://github.com/user-attachments/assets/75063afb-0a1d-41c6-b6d9-0d47db1755ae)
 
 [Terminal OS](https://chatgpt.com/g/g-682d632b64248191ad34b3e0b7d8044f-terminal-os) was developed to assist in the development and optimization of terminal-based operating systems, focusing on creating lightweight, command-line interfaces or shell-like environments that cater to specific use cases. A terminal OS typically refers to an operating system or a shell-like interface where the user interacts with the system primarily through text-based commands rather than graphical user interfaces. These systems are often minimalistic, optimized for performance, and suited for environments where resources are limited, such as embedded systems, servers, or specialized workstations. Terminal OS can involve everything from basic file management and process handling to memory management, networking, and system-level APIs. Users can rely on this custom GPT to develop scripts, troubleshoot errors, and suggest architectural changes, ensuring the terminal-based system is efficient and secure. It may also include custom scripting languages, package managers, or even specialized tools to automate tasks or extend the OS's functionality. This GPT is built to provide expert guidance and coding assistance, helping users create robust, terminal-centric operating systems or environments tailored to their specific needs.
 
@@ -40,7 +40,7 @@ Beyond its aesthetic and technical excellence, a luxury OS acts as a digital con
 
 #
 
-![Pi OS](https://github.com/user-attachments/assets/3ea46ced-c3ef-4e02-b7b7-d14c5c113399)
+![Pi](https://github.com/user-attachments/assets/e5567061-d2ba-4c3c-978b-a348f34c0294)
 
 A Pi OS is any operating system designed specifically for use on Raspberry Pi devices, which are small, affordable single-board computers primarily used for educational, DIY, and prototyping purposes. The term "Pi OS" is often associated with Raspberry Pi OS (formerly Raspbian), a Debian-based Linux distribution optimized for the Raspberry Pi's ARM architecture. However, there are many other custom operating systems available for different use cases, such as Ubuntu, Arch Linux ARM, and specialized systems for gaming or Internet of Things (IoT) applications. 
 
@@ -62,7 +62,7 @@ A custom gaming OS is not a general operating system but rather a specialized se
 
 #
 
-![Kids OS](https://github.com/user-attachments/assets/239c187c-85b6-4a8c-9603-53d7133bf1f8)
+![Kids](https://github.com/user-attachments/assets/0808bc26-1cb9-40c3-8092-55c38e339ffb)
 
 A custom Kids OS is a specialized operating system designed to cater to the unique needs of children, teenagers, and young adults, focusing on simplicity, ease of use, and safety. It combines age-appropriate features to support education, creativity, and entertainment, while ensuring robust parental controls and security. The operating system adapts to the user’s growth, offering different modes for kids, teens, and young adults, with content that evolves based on their developmental stage. For younger users, it provides intuitive navigation and engaging visuals, with interactive tutorials and educational tools. As users mature, the system introduces more complex features like cloud-based projects, creative tools, and social interaction options, all while minimizing risks such as exposure to inappropriate content and excessive screen time. Additionally, Kids OS emphasizes digital literacy, cybersecurity, and healthy tech usage habits, ensuring that users can access the tools they need to grow while staying safe online. The system supports multi-platform access, ensuring compatibility across various devices, such as tablets, laptops, and smartphones, making it versatile and easily accessible. 
 
