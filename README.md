@@ -76,6 +76,12 @@ An Automated Operating System ([AOS](https://chatgpt.com/g/g-67a37bf5650081919cb
 
 #
 
+![Medical OS](https://github.com/user-attachments/assets/7c2fc735-f7b2-4e7b-8637-7b7882fb1c80)
+
+[Medical OS](https://chatgpt.com/g/g-685c7ed7f1ec8191a07ece811dcead43-medical-os) is a custom GPT developed to support the research, design, and development of operating systems tailored specifically for healthcare environments. It focuses on both embedded systems used in medical devices—such as pacemakers, infusion pumps, and imaging equipment—and general-purpose platforms for clinical use, like EHR servers and telemedicine workstations. The GPT analyzes existing medical OS architectures, evaluates real-time performance, fault tolerance, and regulatory compliance (including HIPAA and FDA standards), and provides guidance on designing secure, interoperable, and efficient systems. It also assists in kernel-level decisions, real-time scheduling, and user-space design for medical software, ensuring that all recommendations are informed by current academic research and industry best practices.
+
+#
+
 [Microsoft Windows](https://github.com/sourceduty/Microsoft_Windows)
 <br>
 [Food and Farming](https://github.com/sourceduty/Food_and_Farming)
