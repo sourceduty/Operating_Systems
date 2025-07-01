@@ -82,6 +82,12 @@ An Automated Operating System ([AOS](https://chatgpt.com/g/g-67a37bf5650081919cb
 
 #
 
+![Kernel Dev](https://github.com/user-attachments/assets/ba3dae81-ef52-4fd3-959c-4230955fa35f)
+
+A kernel is the core component of an operating system that manages system resources, such as memory, CPU, and hardware devices, ensuring that applications and users can interact with the hardware efficiently. It serves as the intermediary between the hardware and software, controlling low-level operations and providing essential services like process scheduling, memory management, and I/O handling. [Kernel Dev](https://chatgpt.com/g/g-68641d86cdb08191bad4be912a63306b-kernel-dev) is a custom GPT made to help users by guiding them through the process of developing an operating system kernel. It offers expertise in system architecture design, selecting the appropriate programming language, setting up a cross-compilation environment, and building various kernel subsystems, such as memory management, process scheduling, interrupt handling, and I/O management. The goal is to help users build a robust, efficient, and secure kernel, all while ensuring proper documentation and testing.
+
+#
+
 [Microsoft Windows](https://github.com/sourceduty/Microsoft_Windows)
 <br>
 [Food and Farming](https://github.com/sourceduty/Food_and_Farming)
