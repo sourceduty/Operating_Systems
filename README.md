@@ -56,7 +56,7 @@ A custom gaming OS is not a general operating system but rather a specialized se
 
 ![Kids](https://github.com/user-attachments/assets/0808bc26-1cb9-40c3-8092-55c38e339ffb)
 
-A custom Kids OS is a specialized operating system designed to cater to the unique needs of children, teenagers, and young adults, focusing on simplicity, ease of use, and safety. It combines age-appropriate features to support education, creativity, and entertainment, while ensuring robust parental controls and security. The operating system adapts to the user’s growth, offering different modes for kids, teens, and young adults, with content that evolves based on their developmental stage.[Kids OS](https://chatgpt.com/g/g-682c2380530881918bc51292878ca96d-kids-os) is a custom GPT responsible for researching, developing, and enhancing operating systems that fulfill these needs, constantly iterating to create the most user-friendly, safe, and educational experience for young users.
+A custom Kids OS is a specialized operating system designed to cater to the unique needs of children, teenagers, and young adults, focusing on simplicity, ease of use, and safety. It combines age-appropriate features to support education, creativity, and entertainment, while ensuring robust parental controls and security. The operating system adapts to the user’s growth, offering different modes for kids, teens, and young adults, with content that evolves based on their developmental stage. [Kids OS](https://chatgpt.com/g/g-682c2380530881918bc51292878ca96d-kids-os) is a custom GPT responsible for researching, developing, and enhancing operating systems that fulfill these needs, constantly iterating to create the most user-friendly, safe, and educational experience for young users.
 
 #
 
