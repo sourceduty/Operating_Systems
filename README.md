@@ -1,4 +1,4 @@
-![OS](https://github.com/user-attachments/assets/e1b63dde-fadc-4d8f-b112-3046344c0c9f)
+![OS](https://github.com/user-attachments/assets/e6eb9a37-8e68-4075-a2fc-8b5aef21324d)
 
 An operating system (OS) is a crucial layer of software that manages a computer’s hardware and software resources, enabling communication between the two. It provides an interface for users and applications to interact with hardware, making it easier to execute commands, manage files, and utilize system resources like memory, processors, and storage devices. OS functions include task scheduling, memory management, input/output control, device management, and security. These systems can range from general-purpose desktop OSs like Windows, macOS, and Linux, to specialized operating systems for mobile devices such as Android and iOS, or single-board computers like Raspberry Pi OS. Mobile operating systems, for instance, prioritize touch interfaces and energy efficiency, while single-board computer OSs, often lightweight and minimal, are tailored for low-resource environments but still offer powerful capabilities for development and embedded applications.
 
