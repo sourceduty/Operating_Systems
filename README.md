@@ -93,3 +93,5 @@ Also, [Registry Optimize](https://chatgpt.com/g/g-686f7128ec448191aea74884d22463
 [Games](https://github.com/sourceduty/Games)
 <br>
 [OS Theme](https://chatgpt.com/g/g-6870a499777c8191b63ae79fd8461cb8-os-theme)
+<br>
+[OS Taskbar](https://chatgpt.com/g/g-68712e6d45e881919de3b15b0ba956d5-os-taskbar)
